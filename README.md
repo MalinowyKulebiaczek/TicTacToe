@@ -2,5 +2,5 @@
  Simple TicTacToe game in Python.
 
 # Screenshots
-!(img/img1)
-!(img/img2)
+![img1](img/img1)
+![img2](img/img2)
